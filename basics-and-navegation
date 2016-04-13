@@ -1,0 +1,23 @@
+Command Line
+
+$pwd : Path of your directory used to know where you are.
+
+      $pwd -p :  You can use the to see the actual directory path
+
+
+$ls :  you can use to see what files or directories are in your current directory or another directory
+      $ls /usr/local :  You can use to find what files are in another directory without first leaving your current directory
+      
+      $ls -a : You can use to see both the "visibles" and the "hidden" files directries
+      
+      $ls -l : You can use to list out the names of the files and directories as well as give more detailes information about them
+                including the number of bytes in the file
+      
+      $ls -lh : You can use to see the size of the file in human readable terms
+      
+      $ls -lhs : You can use to sort the results of "ls" bu the size instead od the sorting name
+      
+      $ls -lt : You can use to see the results by the last time the files were modified
+      
+      $ls -lr : You can use to see the reverse of results of "ls"
+      
