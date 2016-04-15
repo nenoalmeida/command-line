@@ -22,4 +22,8 @@ $ls :  you can use to see what files or directories are in your current director
       $ls -lr : You can use to see the reverse of results of "ls"
 
 $ln : Create a link between two files
+      $ln -s  : You can use to create a link to a directory. Ex= $ls -s a.txt b.txt
+ 
  $rm : This commmand delete a file
+ 
+ 
