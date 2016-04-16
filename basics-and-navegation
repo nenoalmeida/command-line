@@ -25,5 +25,8 @@ $ln : Create a link between two files
       $ln -s  : You can use to create a link to a directory. Ex= $ls -s a.txt b.txt
  
  $rm : This commmand delete a file
+
+
+$cd :  Tou can use to change, or navigate, into another directory 
  
  
