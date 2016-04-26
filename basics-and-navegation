@@ -23,10 +23,13 @@ $ls :  you can use to see what files or directories are in your current director
 
 $ln : Create a link between two files
       $ln -s  : You can use to create a link to a directory. Ex= $ls -s a.txt b.txt
+      $ln -f  : You can use this to force some link
+      
  
  $rm : This commmand delete a file
 
 
-$cd :  Tou can use to change, or navigate, into another directory 
- 
+$cd :  You can use to change, or navigate, into another directory 
+
+$pwd :  
  
