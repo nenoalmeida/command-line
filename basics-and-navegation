@@ -15,7 +15,7 @@ $ls :  you can use to see what files or directories are in your current director
       
       $ls -lh : You can use to see the size of the file in human readable terms
       
-      $ls -lhs : You can use to sort the results of "ls" bu the size instead od the sorting name
+      $ls -lhs : You can use to sort the results of "ls" but the size instead of the sorting name
       
       $ls -lt : You can use to see the results by the last time the files were modified
       
